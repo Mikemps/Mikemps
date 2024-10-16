@@ -9,7 +9,7 @@
     <a href = "https://www.instagram.com/mike_mp/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href = "mikeps.dev@gmail.com">
+    <a href = "mailto: mikeps.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
